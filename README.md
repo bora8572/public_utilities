@@ -12,4 +12,4 @@
 - `TOKEN_GSPREAD` - токен для работы с API Google Spreadsheets,
 - `WBOOK`, `WSHEET` - имена таблицы и листа в ней на Google Drive,
 - `./tmp/last.pdf` - последний обработанный файл,
-- `from:your_email@gmail.com AND subject:Квитанция AND filename:pdf AND is:unread` - запрос на поиск письма.
+- `from:your_email@gmail.com AND subject:Квитанция AND filename:pdf AND is:unread` - запрос на поиск писем.
